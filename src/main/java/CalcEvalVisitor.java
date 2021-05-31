@@ -6,6 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 
+
 public class CalcEvalVisitor extends ExprBaseVisitor<Integer> {
 
     Map<String, Integer> memory = new HashMap<String, Integer>();
