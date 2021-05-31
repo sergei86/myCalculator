@@ -7,6 +7,11 @@
     <groupId>dealhub_test</groupId>
     <artifactId>dealhub_test</artifactId>
     <version>1.0-SNAPSHOT</version>
+     <scm>
+		<url>https://github.com/sergei86/myCalculator</url>
+		<connection>scm:git:git@github.com:sergei86/myCalculator.git</connection>
+		<developerConnection>scm:git:git@github.com:sergei86/myCalculator.git</developerConnection>
+	</scm>	
     <dependencies>
         <dependency>
             <groupId>org.antlr</groupId>
