@@ -15,6 +15,8 @@ public class CalcEvalVisitor extends ExprBaseVisitor<Integer> {
         return memory;
     }
 
+         
+         
     @Override
     public Integer visitId(@NotNull ExprParser.IdContext ctx) {
         String id = ctx.ID().getText();
