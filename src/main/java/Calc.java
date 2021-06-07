@@ -17,7 +17,7 @@ public class Calc {
             String inputFile = null;
             if ( args.length>0 ) inputFile = args[0];
             else {
-                System.out.println("Type first| second the calculator expressions and press enter after each expression, press ctrl+D when done.");
+                System.out.println("Type first or second the calculator expressions and press enter after each expression, press ctrl+D when done.");
             }
             InputStream is = System.in;
             if ( inputFile!=null ) is = new FileInputStream(inputFile);
