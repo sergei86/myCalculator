@@ -25,6 +25,7 @@ public class Calc {
 
             Map<String, Integer> results = parseCalc(is);
 
+         
             boolean first = true;
             StringBuilder sb = new StringBuilder();
             sb.append("(");
