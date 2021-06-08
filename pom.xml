@@ -11,7 +11,7 @@
 		<url>https://github.com/sergei86/myCalculator</url>
 		<connection>scm:git:git@github.com:sergei86/myCalculator.git</connection>
 		<developerConnection>scm:git:git@github.com:sergei86/myCalculator.git</developerConnection>
-	</scm>	
+	</scm>	 
     <dependencies>
         <dependency>
             <groupId>org.antlr</groupId>
