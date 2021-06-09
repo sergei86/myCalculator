@@ -23,7 +23,7 @@
             <groupId>javax.cache</groupId>
             <artifactId>cache-api</artifactId>
             <version>0.8</version>
-        </dependency>     
+        </dependency>                    
 
         <dependency>
             <groupId>commons-io</groupId>
